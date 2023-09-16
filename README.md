@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luís Santos</h1>
 <h3 align="center">A fresh new Junior FullStack Developer !!!!</h3>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/luissantos88/luissantos88/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisduartesantos) 
 
