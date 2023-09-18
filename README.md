@@ -14,9 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luissantos88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=luissantos88&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://komarev.com/ghpvc/?username=your-github-luissantos88&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
